@@ -1,0 +1,11 @@
+En base a lo desarrollado en clase, realizar una aplicación basada en node.js, express y websockets, que me permita generar un paint colaborativo entre usuarios conectados.
+
+Un usuario podrá elegir el color a través de un menu input radio, entre las opciones: negro, rojo, azul y verde
+
+La pizarra de dibujo se presentará por debajo del menu de selección del color, y el usuario podrá dibujar en esa zona con el color elegido, reflejándose el dibujo en todos los clientes conectados en forma simúltanea.
+
+Cuando un usuario nuevo se conecte, recibirá la pizarra con los dibujos hasta ahí realizados.
+
+Los dibujos persistirán en memoria del servidor.
+
+Subir el proyecto a glitch.com y probar la interacción con usuarios remotos.
